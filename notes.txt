@@ -1,0 +1,24 @@
+1. how to detect the correct positions of the pulse?
+   ->Approach one: hard code the position and draft a window for the user
+   ->Approach two: find the sensitive part from the fft data grid.
+   
+2. About training the data: 
+   -> will fft keep all the characteristic of the pulse data(any data lose after fft)
+   -> is it good to find some 'golden test case' to initialize the value of neural network?
+   
+3. What is the quality of the capture of video? compressions?
+
+4. a lot of parameter to tune in order to have a good waveform: 1. buffering size (currenty L=10),
+   2. distance of the camera (focal distance)
+   3. fps of the camera
+   4. nervousness of the user
+   5. small movement of the user(very sensitive to change)	
+   6. luminosity
+   7. shadow in the arm
+5. Should a good camera be used for data collection? 
+
+6. What is the difference between the result of human skin and dead objects?
+ => The bpm of human skill will increase or decrease smoothly around 1xx Hz after the camera is still for some time,
+    while the bpm of dead obj will osccilate from 4x to 1xx even the camera is still after some time(situation can vary a lot)
+
+7. It turns out the measurement of forehead is very stable.
