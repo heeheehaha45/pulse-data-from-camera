@@ -16,10 +16,10 @@ img[x][y][1] =int( 255*(img[x][y][1]-mini)/(maxi-mini) )
 
 where maxi is the maximum pixel value(lightest) of the frames over time, and mini is the darkest pixel.	
 
-  ->             ->
-take video from my arm at the desk       remove unncessary areas      extract the green channel and                                     						      		        “normalize” the pixel value
+![alt text](https://github.com/kekileong/pulse-data-from-camera/blob/master/2.png)
+
+
 
 Result:
-We can see the result images from output_after_process folder (see attachment). If you play the images, you can see there is a ‘wave’ of change along the arm.
+We can see the result images from output_after_process zip file. If you play the images, you can see there is a ‘wave’ of change along the arm.
 
-![alt text](https://github.com/kekileong/pulse-data-from-camera/blob/master/2.png)
