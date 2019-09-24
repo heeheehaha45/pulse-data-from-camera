@@ -35,6 +35,6 @@ After applying median blur to the resulting image, it has a better visual effect
 
 ![alt text](https://media.giphy.com/media/MeDoEBeZUgEqJUKt79/giphy.gif)
 
-
+If you find it hard to observe, it would be clearer for enlarging the image:
 https://giphy.com/gifs/MeDoEBeZUgEqJUKt79/fullscreen
 
