@@ -30,3 +30,11 @@ where maxi is the maximum pixel value(lightest) of the frames over time, and min
 Result:
 We can see the result images from output_after_process zip file. If you play the images, you can see there is a ‘wave’ of change along the arm.
 
+Newest Result:
+After applying median blur to the resulting image, it has a better visual effect:
+
+![alt text](https://media.giphy.com/media/MeDoEBeZUgEqJUKt79/giphy.gif)
+
+
+https://giphy.com/gifs/MeDoEBeZUgEqJUKt79/fullscreen
+
