@@ -38,3 +38,5 @@ After applying median blur to the resulting image, it has a better visual effect
 If you find it hard to observe, it would be clearer for enlarging the image:
 https://giphy.com/gifs/MeDoEBeZUgEqJUKt79/fullscreen
 
+Result of using different transfomrations is uploaded in result_of_various_methods.zip. Some of them may have better visual effect.
+
