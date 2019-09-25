@@ -40,3 +40,10 @@ https://giphy.com/gifs/MeDoEBeZUgEqJUKt79/fullscreen
 
 Result of using different transfomrations is uploaded in result_of_various_methods.zip. Some of them may have better visual effect.
 
+Another result after applying the following:
+curve_adj on R channel >normalize ->curve_adj on R channel again -> mediaBlur ->(Filter->other->max) in photoshop
+
+![alt text](https://media.giphy.com/media/W4RLBU3VGAu14HNDG8/giphy.gif)
+
+If you find it hard to observe, it would be clearer for enlarging the image:
+https://giphy.com/gifs/W4RLBU3VGAu14HNDG8/fullscreen
